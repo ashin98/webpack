@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{const o=JSON.parse('{"name":"ashin","age":23}');console.log(o),console.log(3)})()})();

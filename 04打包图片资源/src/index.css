@@ -1,0 +1,21 @@
+#box1 {
+  width: 800px;
+  height: 300px;
+  background-image: url("./vue.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#box2 {
+  width: 340px;
+  height: 300px;
+  background-image: url("./react.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#box3 {
+  width: 400px;
+  height: 300px;
+  background-image: url("./angular.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
